@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
+<head>
+<link rel="stylesheet" href="fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap">
+<style>
+h1.a {font-family: "Audiowide", sans-serif;}
+h1.b {font-family: "Sofia", sans-serif;}
+h1.c {font-family: "Trirong", serif;}
+</style>
+</head>
 body {
   font-family: "Comfortaa", serif;
   font-size: 100%;
