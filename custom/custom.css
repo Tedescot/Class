@@ -3,13 +3,13 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 0 0;
-  background-color: #EDB8D6;
+  background-color: #FFA846;
   text-align: center;
 }
 header {
   padding: 2em 1em 1em 2em;
   text-align: center;
-  background-color: #FECEE9 ;
+  background-color: ##FFC300 ;
 }
 ul {
   text-align: center;
@@ -25,13 +25,13 @@ h2 {
   text-transform: uppercase;
   letter-spacing: .2em;
   text-align: center;
-  color: #740644
+  color: black
 }
 h3 {
   margin-top: 0;
   padding: 1em 1em 1em 2em;
   text-align: center;
-  background-color: #CB92B2;
+  background-color: #FEC585;
   text-align: center; }
 .price {
     font-style: italic;
