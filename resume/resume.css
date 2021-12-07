@@ -5,7 +5,7 @@ body {
   margin-right: auto;
   padding: 2em;
   background-color: #DCD7DD;
-  background-image:	<img src="Back.PNG" alt="Back">;
+  background-image:	url(Back.PNG);
   background-position: center 100px;
   background-attachment: fixed;
   background-size: 25%;
