@@ -1,75 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
 body {
-   font-family: "Lucida Console", Courier, monospace;
-  max-width: 840px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 2em;
-  background-color: #DCD7DD;
-  background-image:	url(Back.PNG);
-  background-position: center 100px;
-  background-attachment: fixed;
-  background-size: 15%;
-  background-repeat:no-repeat;
-  background-opacity: 75%;
-
-}
-
-
-
-h1 {
-   font-family: "Lucida Console", Courier, monospace;
-  font-weight: 700;
-  font-size: 3em;
+  font-family: "Comfortaa", serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 0 0;
+  background-color: #EDB8D6;
   text-align: center;
-
 }
-
-h2 {
-  color: #6A596D;
+header {
+  padding: 2em 1em 1em 2em;
+  text-align: center;
+  background-color: #FECEE9 ;
 }
-
-p.intro {font-size: 1.25em}
-
-a {
-  color: black;
-}
-  a:hover {
-    color: #6A596D ;
-}
-  a:visited {
-    color: gray;
-}
-
-div.gallery {
-  max-width: 675px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-  div.gallery img {
-    margin: 10px;
-    border-radius: 5%;
-  }
-
-    div.gallery img:hover {
-      transform: scale(1.25);
-      transition: all 0.5s;
-    }
-img.fullsize {
-  height: 80vh;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
 ul {
-
+  text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
-ul.links {
-  list-style: none;
-  padding-left:20px;
-  font-size: 1.1em;
-  font-weight:600;
-
+h1 {
+  font-size: 50px
 }
+h2 {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  text-align: center;
+  color: #740644
+}
+h3 {
+  margin-top: 0;
+  padding: 1em 1em 1em 2em;
+  text-align: center;
+  background-color: #CB92B2;
+  text-align: center; }
+.price {
+    font-style: italic;
+  }
+  strong {
+    font-style: italic;
+  }
+  p {
+    text-align: center;
+  }
