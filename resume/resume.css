@@ -4,9 +4,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 2em;
-  background-color: 
-  background-image:	<img src="Back.PNG" alt="Back" width="200">
- ;
+  background-color: #DCD7DD;
+  background-image:	<img src="Back.PNG" alt="Back">;
   background-position: center 100px;
   background-attachment: fixed;
   background-size: 50%;
