@@ -1,0 +1,32 @@
+<!DOCTYPE html >
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>SuperNatural Naturals</title>
+
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
+</style>
+  <link rel="stylesheet" href="custom.css">
+
+<header>
+<h1> SuperNatural Naturals </h1>
+<h2> Your local exorcists. </h2>
+</header>
+<body>
+<h3>
+  <a href="index.html">Home</a> |
+  <a href="reviews.html">Reviews</a> |
+  <a href="packs.html">Packs</a> |
+  <a href="monster.html">Monsters</a> |
+  <a href="about.html">About Us</a> </h3>
+  <h1>Packs</h1>
+  <h2> Trial Pack - $50 </h2>
+  <p>The weakest pack, we will come in and assess the situation, and give you at home remedies you can use to fix your own problem. This pack is recommended for cheapskates and people who don't like to support local businesses.</p>
+   <h2> Normal Pack - $99.99 </h2>
+  <p>This pack will get the spirit out of your hair for a short period of time, varying depending on the power of the spirit. Recommended for people who are okay with having the ghost come back again in the future or for people in temporary living conditions. </p>
+     <h2> <strong> Leave Me Alone! </strong>Pack - $199.99 </h2>
+  <p>This pack ensures the spirit will be gone for a long period of time, or forever depending on the strength of the spirit. Recommended for people who are okay with the possibility of a returning spirit, but want a longer break.</p>
+ <h2> <strong> And Stay Out! </strong>Pack - $299.99 </h2>
+  <p>This pack will get rid of the spirit forever! If you get the feeling that it's back, that means a new one showed up. Recommended for everyone, it's the best option after all.</p>
